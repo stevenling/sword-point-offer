@@ -22,6 +22,8 @@
 14 | [链表中倒数第k个结点](https://github.com/stevenling/sword-point-offer/blob/master/src/14.%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.md)
 15 | [反转链表](https://github.com/stevenling/sword-point-offer/blob/master/src/15.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 16 | [合并两个排序的链表](https://github.com/stevenling/sword-point-offer/blob/master/src/16.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.md)
+17 | [树的子结构](https://github.com/stevenling/sword-point-offer/blob/master/src/17.%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md)
+
 
 
 
@@ -34,7 +36,7 @@
 `2019.10.08`
 
 - 添加目录
-- 添加 05，12
+- 添加 05.用两个栈实现队列，12.数值的整数次方
 
 `2019.10.09`
 - 添加 17.树的子结构
