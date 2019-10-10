@@ -1,4 +1,5 @@
 # 剑指 offer 题解
+![](https://img.shields.io/badge/language-c++-red.svg)
 ## 概述
 
 剑指 offer 的题解，将不断更新，直至完结。
