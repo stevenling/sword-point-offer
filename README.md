@@ -31,28 +31,5 @@
 19 | [顺时针打印矩阵](https://github.com/stevenling/sword-point-offer/blob/master/src/19.%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
 20 | [包含min函数的栈](https://github.com/stevenling/sword-point-offer/blob/master/src/20.%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md)
 21 | [栈的压入、弹出序列](https://github.com/stevenling/sword-point-offer/blob/master/src/21.%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
+22 | [从上往下打印二叉树](https://github.com/stevenling/sword-point-offer/blob/master/src/22.%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 </div>
-
-
-## 更新日志
-
-`2019.10.05`
-
-- 更新第一版
-
-`2019.10.08`
-
-- 添加目录
-- 添加 05.用两个栈实现队列
-- 添加 12.数值的整数次方
-
-`2019.10.09`
-- 添加 17.树的子结构
-- 添加 18.二叉树的镜像
-
-`2019.10.10`
-- 添加 19.顺时针打印矩阵
-- 添加 20.包含min函数的栈
-
-`2019.10.15`
-- 添加 21.栈的压入、弹出序列
