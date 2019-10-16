@@ -31,4 +31,4 @@
 21 | [栈的压入、弹出序列](https://github.com/stevenling/sword-point-offer/blob/master/src/21.%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
 22 | [从上往下打印二叉树](https://github.com/stevenling/sword-point-offer/blob/master/src/22.%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 23 | [二叉搜索树的后序遍历序列](https://github.com/stevenling/sword-point-offer/blob/master/src/23.二叉搜索树的后序遍历序列.md)
-24 | [二叉树中和为某一值的路径](https://github.com/stevenling/sword-point-offer/blob/master/src/23.二叉搜索树的后序遍历序列.md)
+24 | [二叉树中和为某一值的路径](https://github.com/stevenling/sword-point-offer/blob/master/src/24.%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84.md)
